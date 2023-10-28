@@ -30,11 +30,11 @@
   
 - 🔭 I’ve also worked on **Dot Net Core, ReactJs, Angular 9, SqlServer, and Mysql**
 
-- 🔭 I also have hands-on experiance on  **Doker, Kubernetes** 
+- 🔭 I also have hands-on experience on  **Doker, Kubernetes** 
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- ☁️ I've a keen interest in cloud computing. So, I'm learning **Azure**
+- ☁️ I have a keen interest in cloud computing. So, I'm learning **Azure**
 
 
 - 📫 Feel free to reach me out **kunal.burangi96@gmail.com**
