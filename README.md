@@ -26,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Loopback 4 (Node Js), MongoDB, Docker**
+- 🔭 I’m currently working on **Loopback 4 (Node Js), Javascript, typescript, MongoDB, MySql, Docker**
   
-- 🔭 I’ve also worked on **Dot Net Core, ReactJs ,Angular 9, SqlServer, Mysql**
+- 🔭 I’ve also worked on **Dot Net Core, ReactJs, Angular 9, SqlServer, and Mysql**
 
-- 🔭 I also have hands on experiance on  **Doker, Kubernetes** 
+- 🔭 I also have hands-on experiance on  **Doker, Kubernetes** 
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
+- ☁️ I've a keen interest in cloud computing. So, I'm learning **Azure**
 
 
 - 📫 Feel free to reach me out **kunal.burangi96@gmail.com**
