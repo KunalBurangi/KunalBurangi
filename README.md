@@ -39,7 +39,7 @@
 
 - 📫 Feel free to reach me out **kunal.burangi96@gmail.com**
 
-- 🏠 These are links to my personal projects and contributions [Zk-distributed-lock]([zk-distributed-lock](https://github.com/KunalBurangi/zk-distributed-lock), [Seed Projects](https://github.com/KunalBurangi/seedsvscodeextension).
+- 🏠 These are links to my personal projects and contributions [Zk-distributed-lock](https://github.com/KunalBurangi/zk-distributed-lock), [Seed Projects](https://github.com/KunalBurangi/seedsvscodeextension).
 <!--Intro end-->
 
 
